@@ -57,21 +57,21 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/min"
-            android:layout_marginStart="8dp" />
+            android:layout_marginStart="14dp" />
 
         <Button
             android:id="@+id/btnBagi"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/bagi"
-            android:layout_marginStart="8dp"/>
+            android:layout_marginStart="14dp"/>
 
         <Button
             android:id="@+id/btnKali"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/kali"
-            android:layout_marginStart="8dp" />
+            android:layout_marginStart="14dp" />
     </LinearLayout>
 
     <Button
